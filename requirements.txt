@@ -1,0 +1,3 @@
+streamlit==1.27.0
+plotly==5.22.0
+# plus any other libraries your app uses
